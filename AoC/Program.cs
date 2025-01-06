@@ -17,8 +17,11 @@ namespace AoC.days
 
             switch (args[0]) {
                 case "1":
-                Day01.Run();
-                break;
+                    Day01.Run();
+                    break;
+                case "2":
+                    Day02.Run();
+                    break;
             }
 
         }
