@@ -25,6 +25,9 @@ namespace AoC.days
                 case "3":
                     Day03.Run();
                     break;
+                case "4":
+                    Day04.Run();
+                    break;
             }
 
         }
